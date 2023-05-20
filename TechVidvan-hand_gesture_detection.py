@@ -1,4 +1,4 @@
-# TechVidvan hand Gesture Recognizer
+# design and code by QuangNV
 
 # import necessary packages
 
