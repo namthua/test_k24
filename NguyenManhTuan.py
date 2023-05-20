@@ -1,0 +1,6 @@
+name=input('Tên của bạn là gì')
+count_string=len(name)
+name_list=name.split()
+reversed_string=' '.join(reversed(name_list))
+print(count_string)
+print(reversed_string)
